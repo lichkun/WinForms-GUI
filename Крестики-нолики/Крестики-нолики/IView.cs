@@ -35,6 +35,7 @@ namespace Крестики_нолики
         bool RB2 { get; set; }
         bool RB3 { get; set; }
         bool RB4 { get; set; }
+        bool RestartOrExit(string s);
 
         event EventHandler<EventArgs> start;
         event EventHandler<EventArgs> clickbutton;

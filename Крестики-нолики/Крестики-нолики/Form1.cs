@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -127,6 +128,65 @@ namespace Крестики_нолики
             Button button = sender as Button;
             //if(button.Text == "") { button.Enabled = true; }
             button.Enabled = false;
+        }
+
+        public bool RestartOrExit(string winner)
+        {
+            if (winner != "")
+            {
+                DialogResult result = MessageBox.Show($"{winner} победил!", "Игра окончена", MessageBoxButtons.RetryCancel);
+                if (result == DialogResult.Retry)
+                {
+                    Reset();
+                    return true;
+                }
+                else
+                {
+                    Application.Exit();
+                    return false;
+                }
+            }
+            if (winner == "")
+            {
+                DialogResult result = MessageBox.Show($"Ничья", "Игра окончена", MessageBoxButtons.RetryCancel);
+                if (result == DialogResult.Retry)
+                {
+                    Reset();
+                    return true;
+                }
+                else
+                {
+                    Application.Exit();
+                    return false;
+                }
+            }
+            return false;
+        }
+        private void Reset()
+        {
+            Field1 = "";
+            Field2 = "";
+            Field3 = "";
+            Field4 = "";
+            Field5 = "";
+            Field6 = "";
+            Field7 = "";
+            Field8 = "";
+            Field9 = "";
+            RB1 = false;
+            RB2 = false;
+            RB3 = false;
+            RB4 = false;
+            enb1 = false;
+            enb2 = false;
+            enb3 = false;
+            enb4 = false;
+            enb5 = false;
+            enb6 = false;
+            enb7 = false;
+            enb8 = false;
+            enb9 = false;
+            ms1 = true;
         }
     }
 }

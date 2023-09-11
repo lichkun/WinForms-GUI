@@ -8,3 +8,13 @@ M:\Проекты\Крестики-нолики\Крестики-нолики\bi
 M:\Проекты\Крестики-нолики\Крестики-нолики\bin\Debug\Крестики-нолики.pdb
 M:\Проекты\Крестики-нолики\Крестики-нолики\obj\Debug\Крестики-нолики.exe
 M:\Проекты\Крестики-нолики\Крестики-нолики\obj\Debug\Крестики-нолики.pdb
+M:\Проекты\WinForms-GUI\Крестики-нолики\Крестики-нолики\bin\Debug\Крестики-нолики.exe.config
+M:\Проекты\WinForms-GUI\Крестики-нолики\Крестики-нолики\bin\Debug\Крестики-нолики.exe
+M:\Проекты\WinForms-GUI\Крестики-нолики\Крестики-нолики\bin\Debug\Крестики-нолики.pdb
+M:\Проекты\WinForms-GUI\Крестики-нолики\Крестики-нолики\obj\Debug\Крестики-нолики.csproj.AssemblyReference.cache
+M:\Проекты\WinForms-GUI\Крестики-нолики\Крестики-нолики\obj\Debug\Крестики_нолики.View.resources
+M:\Проекты\WinForms-GUI\Крестики-нолики\Крестики-нолики\obj\Debug\Крестики_нолики.Properties.Resources.resources
+M:\Проекты\WinForms-GUI\Крестики-нолики\Крестики-нолики\obj\Debug\Крестики-нолики.csproj.GenerateResource.cache
+M:\Проекты\WinForms-GUI\Крестики-нолики\Крестики-нолики\obj\Debug\Крестики-нолики.csproj.CoreCompileInputs.cache
+M:\Проекты\WinForms-GUI\Крестики-нолики\Крестики-нолики\obj\Debug\Крестики-нолики.exe
+M:\Проекты\WinForms-GUI\Крестики-нолики\Крестики-нолики\obj\Debug\Крестики-нолики.pdb

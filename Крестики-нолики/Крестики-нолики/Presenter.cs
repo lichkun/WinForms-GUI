@@ -57,8 +57,9 @@ namespace Крестики_нолики
         }
         private void clickb(object sender, EventArgs e)
         {
+            bool flag = false;
             UpdateModel();
-            CheckGameOver();
+            if (!flag) { flag = CheckGameOver(); };
             if (view.RB3 == true)
             {
                 model.DefaultAIMove();
@@ -67,8 +68,11 @@ namespace Крестики_нолики
             {
                 model.CleverAI();               
             }
-            UpdateView();
-            CheckGameOver();
+            if(!flag)
+            {
+                UpdateView();
+                flag = CheckGameOver(); 
+            }
         }
         private void UpdateView()
         {
@@ -94,7 +98,7 @@ namespace Крестики_нолики
             model.field[2, 1] = view.Field8;
             model.field[2, 2] = view.Field9;
         }
-        private void CheckGameOver()
+        private bool CheckGameOver()
         {
             string winner="";
             if (view.Field1 == view.Field2 && view.Field2 == view.Field3&& view.Field3 != "")
@@ -163,54 +167,41 @@ namespace Крестики_нолики
             }
             if (winner != "")
             {
-                DialogResult result = MessageBox.Show($"{winner} победил!", "Игра окончена", MessageBoxButtons.RetryCancel);
-                if (result == DialogResult.Retry)
-                {
-                    Reset();
-                    UpdateModel();
-                    return;
-                }
-                else Application.Exit();
+                return view.RestartOrExit(winner);
             }
             if (view.Field1 != "" && view.Field2 != "" && view.Field3 != "" && view.Field4 != "" &&
                 view.Field5 != "" && view.Field6 != "" && view.Field7 != "" && view.Field8 != "" && view.Field9 != "")
             {
-                DialogResult result = MessageBox.Show($"Ничья", "Игра окончена", MessageBoxButtons.RetryCancel);
-                if (result == DialogResult.Retry)
-                {
-                    Reset();
-                    UpdateModel();
-                    return;
-                }
-                else Application.Exit();
+                return view.RestartOrExit(winner);
             }
+            return false;
             
         }
-        private void Reset()
-        {
-            view.Field1 = "";
-            view.Field2 = "";
-            view.Field3 = "";
-            view.Field4 = "";
-            view.Field5 = "";
-            view.Field6 = "";
-            view.Field7 = "";
-            view.Field8 = "";
-            view.Field9 = "";
-            view.RB1 = false;
-            view.RB2 = false;
-            view.RB3 = false;
-            view.RB4 = false;
-            view.enb1 = false;
-            view.enb2 = false;
-            view.enb3 = false;
-            view.enb4 = false;
-            view.enb5 = false;
-            view.enb6 = false;
-            view.enb7 = false;
-            view.enb8 = false;
-            view.enb9 = false;
-            view.ms1 = true;
-        }
+        //private void Reset()
+        //{
+        //    view.Field1 = "";
+        //    view.Field2 = "";
+        //    view.Field3 = "";
+        //    view.Field4 = "";
+        //    view.Field5 = "";
+        //    view.Field6 = "";
+        //    view.Field7 = "";
+        //    view.Field8 = "";
+        //    view.Field9 = "";
+        //    view.RB1 = false;
+        //    view.RB2 = false;
+        //    view.RB3 = false;
+        //    view.RB4 = false;
+        //    view.enb1 = false;
+        //    view.enb2 = false;
+        //    view.enb3 = false;
+        //    view.enb4 = false;
+        //    view.enb5 = false;
+        //    view.enb6 = false;
+        //    view.enb7 = false;
+        //    view.enb8 = false;
+        //    view.enb9 = false;
+        //    view.ms1 = true;
+        //}
     }
 }
