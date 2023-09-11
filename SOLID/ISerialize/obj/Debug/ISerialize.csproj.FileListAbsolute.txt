@@ -1,0 +1,77 @@
+D:\C#\ClassLibrary1\ISerialize\bin\Debug\ISerialize.dll
+D:\C#\ClassLibrary1\ISerialize\bin\Debug\ISerialize.pdb
+D:\C#\ClassLibrary1\ISerialize\bin\Debug\ClassLibrary1.dll
+D:\C#\ClassLibrary1\ISerialize\bin\Debug\ILog.dll
+D:\C#\ClassLibrary1\ISerialize\bin\Debug\ClassLibrary1.pdb
+D:\C#\ClassLibrary1\ISerialize\bin\Debug\ILog.pdb
+D:\C#\ClassLibrary1\ISerialize\obj\Debug\ISerialize.csproj.AssemblyReference.cache
+D:\C#\ClassLibrary1\ISerialize\obj\Debug\ISerialize.csproj.CoreCompileInputs.cache
+D:\C#\ClassLibrary1\ISerialize\obj\Debug\ISerialize.csproj.CopyComplete
+D:\C#\ClassLibrary1\ISerialize\obj\Debug\ISerialize.dll
+D:\C#\ClassLibrary1\ISerialize\obj\Debug\ISerialize.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\ISerialize.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\ISerialize.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\ClassLibrary1.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\ILog.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\ClassLibrary1.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\ILog.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\obj\Debug\ISerialize.csproj.AssemblyReference.cache
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\obj\Debug\ISerialize.csproj.CoreCompileInputs.cache
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\obj\Debug\ISerialize.csproj.CopyComplete
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\obj\Debug\ISerialize.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\obj\Debug\ISerialize.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\Newtonsoft.Json.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\Newtonsoft.Json.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\ISerialize.dll.config
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\System.Buffers.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\System.Memory.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\System.Numerics.Vectors.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\System.Text.Encodings.Web.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\System.Text.Json.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\System.Threading.Tasks.Extensions.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\System.ValueTuple.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\System.Buffers.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\System.Memory.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\System.Numerics.Vectors.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\System.Text.Encodings.Web.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\System.Text.Json.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\System.Threading.Tasks.Extensions.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\System.ValueTuple.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ISerialize\bin\Debug\ClassLibrary1.dll.config
+M:\Проекты\SOLID\ISerialize\bin\Debug\ISerialize.dll.config
+M:\Проекты\SOLID\ISerialize\bin\Debug\ISerialize.dll
+M:\Проекты\SOLID\ISerialize\bin\Debug\ISerialize.pdb
+M:\Проекты\SOLID\ISerialize\bin\Debug\ClassLibrary1.dll
+M:\Проекты\SOLID\ISerialize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Проекты\SOLID\ISerialize\bin\Debug\Newtonsoft.Json.dll
+M:\Проекты\SOLID\ISerialize\bin\Debug\System.Buffers.dll
+M:\Проекты\SOLID\ISerialize\bin\Debug\System.Memory.dll
+M:\Проекты\SOLID\ISerialize\bin\Debug\System.Numerics.Vectors.dll
+M:\Проекты\SOLID\ISerialize\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+M:\Проекты\SOLID\ISerialize\bin\Debug\System.Text.Encodings.Web.dll
+M:\Проекты\SOLID\ISerialize\bin\Debug\System.Text.Json.dll
+M:\Проекты\SOLID\ISerialize\bin\Debug\System.Threading.Tasks.Extensions.dll
+M:\Проекты\SOLID\ISerialize\bin\Debug\System.ValueTuple.dll
+M:\Проекты\SOLID\ISerialize\bin\Debug\ILog.dll
+M:\Проекты\SOLID\ISerialize\bin\Debug\ClassLibrary1.pdb
+M:\Проекты\SOLID\ISerialize\bin\Debug\ClassLibrary1.dll.config
+M:\Проекты\SOLID\ISerialize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+M:\Проекты\SOLID\ISerialize\bin\Debug\Newtonsoft.Json.xml
+M:\Проекты\SOLID\ISerialize\bin\Debug\System.Buffers.xml
+M:\Проекты\SOLID\ISerialize\bin\Debug\System.Memory.xml
+M:\Проекты\SOLID\ISerialize\bin\Debug\System.Numerics.Vectors.xml
+M:\Проекты\SOLID\ISerialize\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+M:\Проекты\SOLID\ISerialize\bin\Debug\System.Text.Encodings.Web.xml
+M:\Проекты\SOLID\ISerialize\bin\Debug\System.Text.Json.xml
+M:\Проекты\SOLID\ISerialize\bin\Debug\System.Threading.Tasks.Extensions.xml
+M:\Проекты\SOLID\ISerialize\bin\Debug\System.ValueTuple.xml
+M:\Проекты\SOLID\ISerialize\bin\Debug\ILog.pdb
+M:\Проекты\SOLID\ISerialize\obj\Debug\ISerialize.csproj.AssemblyReference.cache
+M:\Проекты\SOLID\ISerialize\obj\Debug\ISerialize.csproj.CoreCompileInputs.cache
+M:\Проекты\SOLID\ISerialize\obj\Debug\ISerialize.csproj.CopyComplete
+M:\Проекты\SOLID\ISerialize\obj\Debug\ISerialize.dll
+M:\Проекты\SOLID\ISerialize\obj\Debug\ISerialize.pdb

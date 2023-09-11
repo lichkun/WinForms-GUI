@@ -1,0 +1,49 @@
+D:\C#\ClassLibrary1\PriceList\bin\Debug\PriceList.dll
+D:\C#\ClassLibrary1\PriceList\bin\Debug\PriceList.pdb
+D:\C#\ClassLibrary1\PriceList\bin\Debug\ClassLibrary1.dll
+D:\C#\ClassLibrary1\PriceList\bin\Debug\ILog.dll
+D:\C#\ClassLibrary1\PriceList\bin\Debug\ISerialize.dll
+D:\C#\ClassLibrary1\PriceList\bin\Debug\ClassLibrary1.pdb
+D:\C#\ClassLibrary1\PriceList\bin\Debug\ILog.pdb
+D:\C#\ClassLibrary1\PriceList\bin\Debug\ISerialize.pdb
+D:\C#\ClassLibrary1\PriceList\obj\Debug\PriceList.csproj.AssemblyReference.cache
+D:\C#\ClassLibrary1\PriceList\obj\Debug\PriceList.csproj.CoreCompileInputs.cache
+D:\C#\ClassLibrary1\PriceList\obj\Debug\PriceList.csproj.CopyComplete
+D:\C#\ClassLibrary1\PriceList\obj\Debug\PriceList.dll
+D:\C#\ClassLibrary1\PriceList\obj\Debug\PriceList.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\bin\Debug\PriceList.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\bin\Debug\PriceList.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\bin\Debug\ClassLibrary1.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\bin\Debug\ILog.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\bin\Debug\ISerialize.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\bin\Debug\ClassLibrary1.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\bin\Debug\ILog.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\bin\Debug\ISerialize.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\obj\Debug\PriceList.csproj.AssemblyReference.cache
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\obj\Debug\PriceList.csproj.CoreCompileInputs.cache
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\obj\Debug\PriceList.csproj.CopyComplete
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\obj\Debug\PriceList.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\obj\Debug\PriceList.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\bin\Debug\PriceList.dll.config
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\bin\Debug\ISerialize.dll.config
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\bin\Debug\ClassLibrary1.dll.config
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\bin\Debug\Newtonsoft.Json.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\PriceList\bin\Debug\Newtonsoft.Json.xml
+M:\Проекты\SOLID\PriceList\bin\Debug\PriceList.dll.config
+M:\Проекты\SOLID\PriceList\bin\Debug\PriceList.dll
+M:\Проекты\SOLID\PriceList\bin\Debug\PriceList.pdb
+M:\Проекты\SOLID\PriceList\bin\Debug\ClassLibrary1.dll
+M:\Проекты\SOLID\PriceList\bin\Debug\ILog.dll
+M:\Проекты\SOLID\PriceList\bin\Debug\ISerialize.dll
+M:\Проекты\SOLID\PriceList\bin\Debug\Newtonsoft.Json.dll
+M:\Проекты\SOLID\PriceList\bin\Debug\ClassLibrary1.pdb
+M:\Проекты\SOLID\PriceList\bin\Debug\ClassLibrary1.dll.config
+M:\Проекты\SOLID\PriceList\bin\Debug\ILog.pdb
+M:\Проекты\SOLID\PriceList\bin\Debug\ISerialize.pdb
+M:\Проекты\SOLID\PriceList\bin\Debug\ISerialize.dll.config
+M:\Проекты\SOLID\PriceList\bin\Debug\Newtonsoft.Json.xml
+M:\Проекты\SOLID\PriceList\obj\Debug\PriceList.csproj.AssemblyReference.cache
+M:\Проекты\SOLID\PriceList\obj\Debug\PriceList.csproj.CoreCompileInputs.cache
+M:\Проекты\SOLID\PriceList\obj\Debug\PriceList.csproj.CopyComplete
+M:\Проекты\SOLID\PriceList\obj\Debug\PriceList.dll
+M:\Проекты\SOLID\PriceList\obj\Debug\PriceList.pdb

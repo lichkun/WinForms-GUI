@@ -1,0 +1,12 @@
+D:\C#\ClassLibrary1\ILog\bin\Debug\ILog.dll
+D:\C#\ClassLibrary1\ILog\bin\Debug\ILog.pdb
+D:\C#\ClassLibrary1\ILog\obj\Debug\ILog.csproj.AssemblyReference.cache
+D:\C#\ClassLibrary1\ILog\obj\Debug\ILog.csproj.CoreCompileInputs.cache
+D:\C#\ClassLibrary1\ILog\obj\Debug\ILog.dll
+D:\C#\ClassLibrary1\ILog\obj\Debug\ILog.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ILog\bin\Debug\ILog.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ILog\bin\Debug\ILog.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ILog\obj\Debug\ILog.csproj.AssemblyReference.cache
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ILog\obj\Debug\ILog.csproj.CoreCompileInputs.cache
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ILog\obj\Debug\ILog.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ILog\obj\Debug\ILog.pdb

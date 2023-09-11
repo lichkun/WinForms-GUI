@@ -1,0 +1,37 @@
+D:\C#\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\C#\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\C#\ClassLibrary1\ClassLibrary1\bin\Debug\ILog.dll
+D:\C#\ClassLibrary1\ClassLibrary1\bin\Debug\ILog.pdb
+D:\C#\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\C#\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\C#\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+D:\C#\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\C#\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\ILog.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\ILog.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\System.Buffers.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\System.Memory.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\System.Numerics.Vectors.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\System.Text.Encodings.Web.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\System.Text.Json.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\System.Threading.Tasks.Extensions.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\System.ValueTuple.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\System.Buffers.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\System.Memory.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\System.Numerics.Vectors.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\System.Text.Encodings.Web.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\System.Text.Json.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\System.Threading.Tasks.Extensions.xml
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\ClassLibrary1\bin\Debug\System.ValueTuple.xml

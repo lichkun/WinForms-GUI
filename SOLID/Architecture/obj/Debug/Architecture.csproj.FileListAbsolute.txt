@@ -1,0 +1,58 @@
+D:\C#\ClassLibrary1\Architecture\bin\Debug\Architecture.exe.config
+D:\C#\ClassLibrary1\Architecture\bin\Debug\Architecture.exe
+D:\C#\ClassLibrary1\Architecture\bin\Debug\Architecture.pdb
+D:\C#\ClassLibrary1\Architecture\bin\Debug\ClassLibrary1.dll
+D:\C#\ClassLibrary1\Architecture\bin\Debug\ILog.dll
+D:\C#\ClassLibrary1\Architecture\bin\Debug\ISerialize.dll
+D:\C#\ClassLibrary1\Architecture\bin\Debug\PriceList.dll
+D:\C#\ClassLibrary1\Architecture\bin\Debug\ClassLibrary1.pdb
+D:\C#\ClassLibrary1\Architecture\bin\Debug\ILog.pdb
+D:\C#\ClassLibrary1\Architecture\bin\Debug\ISerialize.pdb
+D:\C#\ClassLibrary1\Architecture\bin\Debug\PriceList.pdb
+D:\C#\ClassLibrary1\Architecture\obj\Debug\Architecture.csproj.AssemblyReference.cache
+D:\C#\ClassLibrary1\Architecture\obj\Debug\Architecture.csproj.CoreCompileInputs.cache
+D:\C#\ClassLibrary1\Architecture\obj\Debug\Architecture.csproj.CopyComplete
+D:\C#\ClassLibrary1\Architecture\obj\Debug\Architecture.exe
+D:\C#\ClassLibrary1\Architecture\obj\Debug\Architecture.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\bin\Debug\Architecture.exe.config
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\bin\Debug\Architecture.exe
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\bin\Debug\Architecture.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\bin\Debug\ClassLibrary1.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\bin\Debug\ILog.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\bin\Debug\ISerialize.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\bin\Debug\PriceList.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\bin\Debug\ClassLibrary1.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\bin\Debug\ILog.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\bin\Debug\ISerialize.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\bin\Debug\PriceList.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\obj\Debug\Architecture.csproj.AssemblyReference.cache
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\obj\Debug\Architecture.csproj.CoreCompileInputs.cache
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\obj\Debug\Architecture.csproj.CopyComplete
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\obj\Debug\Architecture.exe
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\obj\Debug\Architecture.pdb
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\bin\Debug\ISerialize.dll.config
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\bin\Debug\PriceList.dll.config
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\bin\Debug\ClassLibrary1.dll.config
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\bin\Debug\Newtonsoft.Json.dll
+M:\Documents\Загрузки\Telegram Desktop\ClassLibrary1\Architecture\bin\Debug\Newtonsoft.Json.xml
+M:\Проекты\SOLID\Architecture\bin\Debug\Architecture.exe.config
+M:\Проекты\SOLID\Architecture\bin\Debug\Architecture.exe
+M:\Проекты\SOLID\Architecture\bin\Debug\Architecture.pdb
+M:\Проекты\SOLID\Architecture\bin\Debug\ClassLibrary1.dll
+M:\Проекты\SOLID\Architecture\bin\Debug\ILog.dll
+M:\Проекты\SOLID\Architecture\bin\Debug\ISerialize.dll
+M:\Проекты\SOLID\Architecture\bin\Debug\PriceList.dll
+M:\Проекты\SOLID\Architecture\bin\Debug\Newtonsoft.Json.dll
+M:\Проекты\SOLID\Architecture\bin\Debug\ClassLibrary1.pdb
+M:\Проекты\SOLID\Architecture\bin\Debug\ClassLibrary1.dll.config
+M:\Проекты\SOLID\Architecture\bin\Debug\ILog.pdb
+M:\Проекты\SOLID\Architecture\bin\Debug\ISerialize.pdb
+M:\Проекты\SOLID\Architecture\bin\Debug\ISerialize.dll.config
+M:\Проекты\SOLID\Architecture\bin\Debug\PriceList.pdb
+M:\Проекты\SOLID\Architecture\bin\Debug\PriceList.dll.config
+M:\Проекты\SOLID\Architecture\bin\Debug\Newtonsoft.Json.xml
+M:\Проекты\SOLID\Architecture\obj\Debug\Architecture.csproj.AssemblyReference.cache
+M:\Проекты\SOLID\Architecture\obj\Debug\Architecture.csproj.CoreCompileInputs.cache
+M:\Проекты\SOLID\Architecture\obj\Debug\Architecture.csproj.CopyComplete
+M:\Проекты\SOLID\Architecture\obj\Debug\Architecture.exe
+M:\Проекты\SOLID\Architecture\obj\Debug\Architecture.pdb
