@@ -13,6 +13,12 @@ namespace AuthorAndBooks
         Author currentauthor { get; set; }
         Book currentbook { get; }
         ComboBox cbox { get; set; }
+        string filepath { get; set; }
+        string filesave { get; set; }
+        string newauthor { get; set; }
+        string renameauthor { get; set; }
+        string newbook { get; set; }
+        string renamebook { get; set; }
         event EventHandler<EventArgs> AddAuthor;
         event EventHandler<EventArgs> EditAuthor;
         event EventHandler<EventArgs> DeleteAuthor;

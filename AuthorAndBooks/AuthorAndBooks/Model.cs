@@ -14,6 +14,11 @@ namespace AuthorAndBooks
     {
         public List<Book> books { get; set; }
         public List<Author> authors { get; set; }
+        public Model()
+        {
+            books = new List<Book>();
+            authors = new List<Author>();
+        }
         public void LoadData(string filePath)
         {
             if (File.Exists(filePath))
@@ -55,17 +60,17 @@ namespace AuthorAndBooks
                 List<Book> booktoremove = new List<Book>();
                 foreach (Book book in books)
                 {
-                    if(book.AuthorId == author.Id)
+                    if (book.AuthorId == author.Id)
                     {
                         booktoremove.Add(book);
                     }
                 }
-                foreach(Book book in booktoremove)
+                foreach (Book book in booktoremove)
                 {
                     books.Remove(book);
                 }
                 authors.Remove(author);
-                
+
             }
         }
         public void AddBook(Book book)
@@ -89,6 +94,7 @@ namespace AuthorAndBooks
             {
                 int index = rnd.Next(100);
                 if (!authors.Exists(author => author.Id == index)) return index;
+
             }
 
         }
