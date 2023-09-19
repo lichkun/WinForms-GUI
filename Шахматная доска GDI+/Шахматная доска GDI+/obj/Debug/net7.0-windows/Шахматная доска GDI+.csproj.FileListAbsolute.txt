@@ -1,0 +1,16 @@
+M:\Проекты\WinForms-GUI\Шахматная доска GDI+\Шахматная доска GDI+\bin\Debug\net7.0-windows\Шахматная доска GDI+.exe
+M:\Проекты\WinForms-GUI\Шахматная доска GDI+\Шахматная доска GDI+\bin\Debug\net7.0-windows\Шахматная доска GDI+.deps.json
+M:\Проекты\WinForms-GUI\Шахматная доска GDI+\Шахматная доска GDI+\bin\Debug\net7.0-windows\Шахматная доска GDI+.runtimeconfig.json
+M:\Проекты\WinForms-GUI\Шахматная доска GDI+\Шахматная доска GDI+\bin\Debug\net7.0-windows\Шахматная доска GDI+.dll
+M:\Проекты\WinForms-GUI\Шахматная доска GDI+\Шахматная доска GDI+\bin\Debug\net7.0-windows\Шахматная доска GDI+.pdb
+M:\Проекты\WinForms-GUI\Шахматная доска GDI+\Шахматная доска GDI+\obj\Debug\net7.0-windows\Шахматная_доска_GDI_.Шахматы.resources
+M:\Проекты\WinForms-GUI\Шахматная доска GDI+\Шахматная доска GDI+\obj\Debug\net7.0-windows\Шахматная доска GDI+.csproj.GenerateResource.cache
+M:\Проекты\WinForms-GUI\Шахматная доска GDI+\Шахматная доска GDI+\obj\Debug\net7.0-windows\Шахматная доска GDI+.GeneratedMSBuildEditorConfig.editorconfig
+M:\Проекты\WinForms-GUI\Шахматная доска GDI+\Шахматная доска GDI+\obj\Debug\net7.0-windows\Шахматная доска GDI+.AssemblyInfoInputs.cache
+M:\Проекты\WinForms-GUI\Шахматная доска GDI+\Шахматная доска GDI+\obj\Debug\net7.0-windows\Шахматная доска GDI+.AssemblyInfo.cs
+M:\Проекты\WinForms-GUI\Шахматная доска GDI+\Шахматная доска GDI+\obj\Debug\net7.0-windows\Шахматная доска GDI+.csproj.CoreCompileInputs.cache
+M:\Проекты\WinForms-GUI\Шахматная доска GDI+\Шахматная доска GDI+\obj\Debug\net7.0-windows\Шахматная доска GDI+.dll
+M:\Проекты\WinForms-GUI\Шахматная доска GDI+\Шахматная доска GDI+\obj\Debug\net7.0-windows\refint\Шахматная доска GDI+.dll
+M:\Проекты\WinForms-GUI\Шахматная доска GDI+\Шахматная доска GDI+\obj\Debug\net7.0-windows\Шахматная доска GDI+.pdb
+M:\Проекты\WinForms-GUI\Шахматная доска GDI+\Шахматная доска GDI+\obj\Debug\net7.0-windows\Шахматная доска GDI+.genruntimeconfig.cache
+M:\Проекты\WinForms-GUI\Шахматная доска GDI+\Шахматная доска GDI+\obj\Debug\net7.0-windows\ref\Шахматная доска GDI+.dll
