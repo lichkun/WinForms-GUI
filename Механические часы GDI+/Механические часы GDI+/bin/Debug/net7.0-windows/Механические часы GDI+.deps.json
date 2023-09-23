@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Механические часы GDI+/1.0.0": {
+        "runtime": {
+          "Механические часы GDI+.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Механические часы GDI+/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

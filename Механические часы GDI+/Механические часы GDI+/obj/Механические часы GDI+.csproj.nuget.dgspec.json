@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\Проекты\\WinForms-GUI\\Шахматная доска GDI+\\Шахматная доска GDI+\\Шахматная доска GDI+.csproj": {}
+    "M:\\Проекты\\WinForms-GUI\\Механические часы GDI+\\Механические часы GDI+\\Механические часы GDI+.csproj": {}
   },
   "projects": {
-    "M:\\Проекты\\WinForms-GUI\\Шахматная доска GDI+\\Шахматная доска GDI+\\Шахматная доска GDI+.csproj": {
+    "M:\\Проекты\\WinForms-GUI\\Механические часы GDI+\\Механические часы GDI+\\Механические часы GDI+.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\Проекты\\WinForms-GUI\\Шахматная доска GDI+\\Шахматная доска GDI+\\Шахматная доска GDI+.csproj",
-        "projectName": "Шахматная доска GDI+",
-        "projectPath": "M:\\Проекты\\WinForms-GUI\\Шахматная доска GDI+\\Шахматная доска GDI+\\Шахматная доска GDI+.csproj",
+        "projectUniqueName": "M:\\Проекты\\WinForms-GUI\\Механические часы GDI+\\Механические часы GDI+\\Механические часы GDI+.csproj",
+        "projectName": "Механические часы GDI+",
+        "projectPath": "M:\\Проекты\\WinForms-GUI\\Механические часы GDI+\\Механические часы GDI+\\Механические часы GDI+.csproj",
         "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
-        "outputPath": "M:\\Проекты\\WinForms-GUI\\Шахматная доска GDI+\\Шахматная доска GDI+\\obj\\",
+        "outputPath": "M:\\Проекты\\WinForms-GUI\\Механические часы GDI+\\Механические часы GDI+\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
