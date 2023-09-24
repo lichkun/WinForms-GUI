@@ -69,9 +69,11 @@ namespace Механические_часы_GDI_
             DateTime dt = DateTime.Now;
             int seconds = dt.Second;
             int minute = dt.Minute;
+            int hour = dt.Hour;
 
             float angle =( 360f / 60 * seconds)-90;
             float angle2 = (360f / 60 * minute)-90 + (angle / 60);
+            float angle3 = (360f /12 * hour)-90 + angle2/12;
             using (Pen p = new Pen(Brushes.White, 2))
             {
                 int Lengthsecond = radius - 130;
@@ -84,6 +86,13 @@ namespace Механические_часы_GDI_
                 int Lengthminute = radius - 170;
                 int secondX = ClientSize.Width / 2 + (int)(Lengthminute * Math.Cos(angle2 * Math.PI / 180));
                 int secondY = ClientSize.Height / 2 + (int)(Lengthminute * Math.Sin(angle2 * Math.PI / 180));
+                g.DrawLine(p, ClientSize.Width / 2, ClientSize.Height / 2, secondX, secondY);
+            }
+            using (Pen p = new Pen(Brushes.Gray, 8))
+            {
+                int Lengthminute = radius - 250;
+                int secondX = ClientSize.Width / 2 + (int)(Lengthminute * Math.Cos(angle3 * Math.PI / 180));
+                int secondY = ClientSize.Height / 2 + (int)(Lengthminute * Math.Sin(angle3 * Math.PI / 180));
                 g.DrawLine(p, ClientSize.Width / 2, ClientSize.Height / 2, secondX, secondY);
             }
         }
