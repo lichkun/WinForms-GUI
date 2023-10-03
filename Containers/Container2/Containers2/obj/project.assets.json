@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\Проекты\\WinForms-GUI\\Containers2\\Containers2\\Containers2.csproj",
+      "projectUniqueName": "M:\\Проекты\\WinForms-GUI\\Containers\\Container2\\Containers2\\Containers2.csproj",
       "projectName": "Containers2",
-      "projectPath": "M:\\Проекты\\WinForms-GUI\\Containers2\\Containers2\\Containers2.csproj",
+      "projectPath": "M:\\Проекты\\WinForms-GUI\\Containers\\Container2\\Containers2\\Containers2.csproj",
       "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
-      "outputPath": "M:\\Проекты\\WinForms-GUI\\Containers2\\Containers2\\obj\\",
+      "outputPath": "M:\\Проекты\\WinForms-GUI\\Containers\\Container2\\Containers2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
