@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\Проекты\\WinForms-GUI\\AuthorAndBooks\\AuthorAndBooks\\AuthorAndBooks.csproj": {}
+    "D:\\Проекты\\WinForms-GUI\\AuthorAndBooks\\AuthorAndBooks\\AuthorAndBooks.csproj": {}
   },
   "projects": {
-    "M:\\Проекты\\WinForms-GUI\\AuthorAndBooks\\AuthorAndBooks\\AuthorAndBooks.csproj": {
+    "D:\\Проекты\\WinForms-GUI\\AuthorAndBooks\\AuthorAndBooks\\AuthorAndBooks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\Проекты\\WinForms-GUI\\AuthorAndBooks\\AuthorAndBooks\\AuthorAndBooks.csproj",
+        "projectUniqueName": "D:\\Проекты\\WinForms-GUI\\AuthorAndBooks\\AuthorAndBooks\\AuthorAndBooks.csproj",
         "projectName": "AuthorAndBooks",
-        "projectPath": "M:\\Проекты\\WinForms-GUI\\AuthorAndBooks\\AuthorAndBooks\\AuthorAndBooks.csproj",
+        "projectPath": "D:\\Проекты\\WinForms-GUI\\AuthorAndBooks\\AuthorAndBooks\\AuthorAndBooks.csproj",
         "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
-        "outputPath": "M:\\Проекты\\WinForms-GUI\\AuthorAndBooks\\AuthorAndBooks\\obj\\",
+        "outputPath": "D:\\Проекты\\WinForms-GUI\\AuthorAndBooks\\AuthorAndBooks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
